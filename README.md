@@ -1,6 +1,8 @@
 # DPTS
 Dynamic panel multiple threshold model with fixed effects Use DPTS (DPTM) With (In) R Software
 
+https://www.youtube.com/watch?v=GbZR1Q4IQ4U
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
